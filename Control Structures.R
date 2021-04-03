@@ -52,5 +52,5 @@ for(i in seq_len(nrow(x))){
 
 #Control While Loop
 
-
-
+x = rnorm(100)
+sd(x)
